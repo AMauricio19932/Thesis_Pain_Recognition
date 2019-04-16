@@ -1,2 +1,4 @@
-# Thesis_Pain_Recognition
-Master degree thesis
+# Master degree thesis
+# Author: BsC. Manasses Antoni Mauricio Condori
+# Advisor: DsC. Guillermo Camara
+
